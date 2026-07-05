@@ -16,5 +16,5 @@ Rubix Studios is an Australian digital agency established in 2001, specializing 
 - 📧 hello@rubixstudios.com.au  
 - 📍 5 Beaumont Parade, West Footscray VIC 3012, Australia  
 - 📍 81-83 Campbell Street, Surry Hills NSW 2010, Australia  
-- 📞 (03) 9000 0355  
+- 📞 (03) 7037 1020
 - 🏢 [LinkedIn](https://www.linkedin.com/company/rubixstudios)
